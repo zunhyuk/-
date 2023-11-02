@@ -1,6 +1,6 @@
-var blockSize = 25; // 크기
-var total_row = 17; // 맵 크기
-var total_col = 17;
+var blockSize = 25; 
+var total_row = 15; // 맵 크기
+var total_col = 15;
 var board;
 var context;
 
